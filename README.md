@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @gorickjones
+# 👋 Hi, I’m Marnie Webb.
+
 - 👀 I’m interested in community technology projects.
 - 🌱 I’m currently learning to use GitHub  
 - 💞️ I’m looking to collaborate on public good technology projects
